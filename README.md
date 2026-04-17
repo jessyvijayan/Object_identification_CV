@@ -27,7 +27,7 @@ Spatial Awareness: The integration of bounding box coordinates ensures the model
 
 💻 How to Run
 Clone the repository:
-git clone [YOUR_REPO_LINK]
+git clone [git@github.com:jessyvijayan/Object_identification_CV.git]
 
 Install Dependencies:
 pip install tensorflow opencv-python beautifulsoup4 numpy matplotlib lxml
