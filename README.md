@@ -33,6 +33,6 @@ Install Dependencies:
 pip install tensorflow opencv-python beautifulsoup4 numpy matplotlib lxml
 
 Execute:
-python mask_detection_main.py
+[python mask_detection_main.py](https://github.com/jessyvijayan/Object_identification_CV/blob/main/Object_identification_computer_vision.py)
 
 
